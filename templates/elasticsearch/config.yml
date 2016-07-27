@@ -1,0 +1,8 @@
+name: Elasticsearch
+description: |
+  Simple Elasticsearch service for small setups
+version: 0
+category: Databases
+maintainer: El Werbitzky
+license: Apache License 2.0
+projectURL: https://www.elastic.co/
